@@ -1,0 +1,32 @@
+@font-face {
+    font-family: AppleSDGothicNeo;
+    src: local(AppleSDGothicNeo-SemiBold),
+        url('AppleSDGothicNeoSB.woff2') format("woff2"),
+        url('AppleSDGothicNeoSB.woff') format("woff"),
+        url('AppleSDGothicNeoSB.ttf') format("truetype");
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: AppleSDGothicNeo;
+    src: local(AppleSDGothicNeo-Bold),
+        url('AppleSDGothicNeoB.woff2') format("woff2"),
+        url('AppleSDGothicNeoB.woff') format("woff"),
+        url('AppleSDGothicNeoB.ttf') format("truetype");
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: AppleSDGothicNeo;
+    src: local(AppleSDGothicNeo-ExtraBold),
+        url('AppleSDGothicNeoEB.woff2') format("woff2"),
+        url('AppleSDGothicNeoEB.woff') format("woff"),
+        url('AppleSDGothicNeoEB.ttf') format("truetype");
+    font-weight: 800;
+    font-style: normal;
+    font-stretch: normal;
+}
